@@ -1,6 +1,6 @@
 # code here!
 class School
   
-  def initialize(school)
+  def initialize(roster)
   end
 end
